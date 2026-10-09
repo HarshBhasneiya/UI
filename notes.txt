@@ -1,4 +1,0 @@
-UI CREATION 
-
-create main div, height 100% width 100%, background img   ||   top layer, height 100% width 100% opacity 50%   ||   content div in layer div   ||
-width x, height x   ||   centre align   ||   inside content (h1, paragraph, button)
